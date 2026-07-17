@@ -17,18 +17,18 @@
   <text x="34" y="64" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie</tspan></text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.42s" fill="freeze"/>
-  <text x="34" y="90" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#0891B2" font-weight="700">create</tspan><tspan fill="#172554">new branch -&gt; kangajie/kangajie</tspan></text>
+  <text x="34" y="90" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie-ai-backend</tspan></text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.54s" fill="freeze"/>
-  <text x="34" y="116" class="row"><tspan fill="#64748B">Jul 14</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie-ai-frontend</tspan></text>
+  <text x="34" y="116" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#0891B2" font-weight="700">create</tspan><tspan fill="#172554">new branch -&gt; kangajie/kangajie-ai-backend</tspan></text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.66s" fill="freeze"/>
-  <text x="34" y="142" class="row"><tspan fill="#64748B">Jul 5</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie-ai-frontend</tspan></text>
+  <text x="34" y="142" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie-ai-frontend</tspan></text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.78s" fill="freeze"/>
-  <text x="34" y="168" class="row"><tspan fill="#64748B">Jul 5</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie-ai-backend</tspan></text>
+  <text x="34" y="168" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#0891B2" font-weight="700">create</tspan><tspan fill="#172554">new branch -&gt; kangajie/kangajie-ai-frontend</tspan></text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/>
-  <text x="34" y="194" class="row"><tspan fill="#64748B">Jun 30</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#047857" font-weight="700">push  </tspan><tspan fill="#172554">1 commit -&gt; kangajie/kangajie-ai-frontend</tspan></text>
+  <text x="34" y="194" class="row"><tspan fill="#64748B">Jul 17</tspan><tspan fill="#64748B">  |  </tspan><tspan fill="#0891B2" font-weight="700">create</tspan><tspan fill="#172554">new branch -&gt; kangajie/kangajie</tspan></text>
 </g>
 </svg>
