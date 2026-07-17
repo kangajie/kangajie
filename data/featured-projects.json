@@ -1,0 +1,38 @@
+[
+  {
+    "name": "KangAjie AI",
+    "repo": "kangajie/kangajie-ai-frontend",
+    "url": "https://github.com/kangajie/kangajie-ai-frontend",
+    "homepage": "https://github.com/kangajie/kangajie-ai-backend",
+    "focus": "AI chat assistant",
+    "summary": "A personal AI assistant with a custom frontend and a TypeScript backend that integrates LLM APIs.",
+    "tags": ["AI", "TypeScript", "Fullstack"]
+  },
+  {
+    "name": "KangAjieDev",
+    "repo": "kangajie/kangajiedev",
+    "url": "https://github.com/kangajie/kangajiedev",
+    "homepage": "",
+    "focus": "Personal portfolio",
+    "summary": "My portfolio website showcasing projects, skills, and ways to get in touch.",
+    "tags": ["Portfolio", "Web", "HTML"]
+  },
+  {
+    "name": "Raspi Tunneling",
+    "repo": "kangajie/tunneling-Raspi",
+    "url": "https://github.com/kangajie/tunneling-Raspi",
+    "homepage": "",
+    "focus": "Self-hosted infrastructure",
+    "summary": "Exposing self-hosted services on a Raspberry Pi to the internet through secure tunneling.",
+    "tags": ["Raspberry Pi", "Networking", "Self-hosted"]
+  },
+  {
+    "name": "Condition Leaf",
+    "repo": "kangajie/condition-leaf",
+    "url": "https://github.com/kangajie/condition-leaf",
+    "homepage": "",
+    "focus": "Web experiment",
+    "summary": "A web-based project exploring interactive UI and conditional logic.",
+    "tags": ["Web", "HTML", "Experiment"]
+  }
+]
