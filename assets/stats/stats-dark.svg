@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="250" viewBox="0 0 1180 250" role="img" aria-label="GitHub stats for kangajie">
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset="0.48" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <style>
+    .title { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 2px; fill: #38BDF8; opacity: 0.78; }
+    .stat-value { font-family: 'Courier New', Consolas, monospace; font-size: 42px; font-weight: 700; }
+    .stat-label { font-family: 'Courier New', Consolas, monospace; font-size: 11px; letter-spacing: 2px; }
+    .legend { font-family: 'Courier New', Consolas, monospace; font-size: 12px; }
+    text, tspan { white-space: pre; }
+  </style>
+</defs>
+<rect width="1180" height="250" rx="14" fill="url(#background)"/>
+<rect x="2" y="2" width="1176" height="246" rx="12" fill="none" stroke="url(#border)" stroke-width="1.5" opacity="0.6"><animate attributeName="opacity" values="0.4;0.8;0.4" dur="3.4s" repeatCount="indefinite"/></rect>
+<text x="34" y="34" class="title">STATS.CORE / GITHUB.METRICS</text>
+<circle cx="1134" cy="29" r="4" fill="#10B981"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="1142" y="33" class="title" fill="#10B981">LIVE</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
+  <text x="173" y="108" text-anchor="middle" class="stat-value" fill="#22D3EE">7</text>
+  <text x="173" y="132" text-anchor="middle" class="stat-label" fill="#64748B">REPOSITORIES</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44999999999999996s" fill="freeze"/>
+  <text x="451" y="108" text-anchor="middle" class="stat-value" fill="#FACC15">0</text>
+  <text x="451" y="132" text-anchor="middle" class="stat-label" fill="#64748B">STARS EARNED</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+  <text x="729" y="108" text-anchor="middle" class="stat-value" fill="#7C3AED">4</text>
+  <text x="729" y="132" text-anchor="middle" class="stat-label" fill="#64748B">FOLLOWERS</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
+  <text x="1007" y="108" text-anchor="middle" class="stat-value" fill="#10B981">83</text>
+  <text x="1007" y="132" text-anchor="middle" class="stat-label" fill="#64748B">RECENT COMMITS</text>
+</g>
+<rect x="34.0" y="168" width="0" height="12" rx="3" fill="#22D3EE" opacity="0.85"><animate attributeName="width" from="0" to="556.0" dur="0.6s" begin="0.90s" fill="freeze"/></rect>
+<rect x="590.0" y="168" width="0" height="12" rx="3" fill="#7C3AED" opacity="0.85"><animate attributeName="width" from="0" to="370.7" dur="0.6s" begin="1.02s" fill="freeze"/></rect>
+<rect x="960.7" y="168" width="0" height="12" rx="3" fill="#10B981" opacity="0.85"><animate attributeName="width" from="0" to="185.3" dur="0.6s" begin="1.14s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/>
+  <circle cx="40.0" cy="202" r="4" fill="#22D3EE"/>
+  <text x="50.0" y="206" class="legend" fill="#E5E7EB">HTML <tspan fill="#64748B">50%</tspan></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.02s" fill="freeze"/>
+  <circle cx="225.3" cy="202" r="4" fill="#7C3AED"/>
+  <text x="235.3" y="206" class="legend" fill="#E5E7EB">TypeScript <tspan fill="#64748B">33%</tspan></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/>
+  <circle cx="410.7" cy="202" r="4" fill="#10B981"/>
+  <text x="420.7" y="206" class="legend" fill="#E5E7EB">JavaScript <tspan fill="#64748B">17%</tspan></text>
+</g>
+</svg>

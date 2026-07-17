@@ -39,6 +39,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Regenerate stats cards
+        run: node scripts/generate-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Regenerate contribution raid
+        run: node scripts/generate-game.mjs
+
       - name: Regenerate hero assets
         run: node scripts/generate-hero.mjs
         env:

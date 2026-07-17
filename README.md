@@ -57,8 +57,21 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 ## GitHub Stats
 
 <p align="center">
-  <img alt="Kang Ajie's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kangajie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangajie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/stats-light.svg">
+    <img src="./assets/stats/stats-dark.svg" alt="Kang Ajie's GitHub stats" width="100%">
+  </picture>
+</p>
+
+## Contribution Raid
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/game/game-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/game/game-light.svg">
+    <img src="./assets/game/game-dark.svg" alt="GRID.BREACH - a bot raiding the contribution graph" width="100%">
+  </picture>
 </p>
 
 ## Recent Activity
