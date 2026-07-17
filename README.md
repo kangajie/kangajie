@@ -34,7 +34,6 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 | [**KangAjie AI**](https://github.com/kangajie/kangajie-ai-frontend) | AI chat assistant | A personal AI assistant with a custom frontend and a TypeScript backend that integrates LLM APIs. [Backend](https://github.com/kangajie/kangajie-ai-backend) |
 | [**KangAjieDev**](https://github.com/kangajie/kangajiedev) | Personal portfolio | My portfolio website showcasing projects, skills, and ways to get in touch. |
 | [**Raspi Tunneling**](https://github.com/kangajie/tunneling-Raspi) | Self-hosted infrastructure | Exposing self-hosted services on a Raspberry Pi to the internet through secure tunneling. |
-| [**Condition Leaf**](https://github.com/kangajie/condition-leaf) | Web experiment | A web-based project exploring interactive UI and conditional logic. |
 
 ## Tech Stack
 
