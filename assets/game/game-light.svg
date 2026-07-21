@@ -185,6 +185,7 @@
 <rect x="1063" y="116" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="1084" y="116" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="1105" y="116" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
+<rect x="1126" y="116" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="34" y="137" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="55" y="137" width="16" height="16" rx="3" fill="#9BE9A8">
   <animate attributeName="fill" values="#9BE9A8;#0F172A;#6D28D9" dur="0.55s" begin="1.30s" fill="freeze"/>
