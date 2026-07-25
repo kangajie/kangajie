@@ -415,6 +415,7 @@
 <rect x="1063" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="1084" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="1105" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
+<rect x="1126" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <g>
   <animateMotion dur="17s" begin="0s" repeatCount="indefinite" path="M 34 66.5 H 1142 H 34"/>
   <path d="M -6 0 L 0 -5 L 6 0 L 0 5 Z" fill="#DC2626" opacity="0.85"/>
