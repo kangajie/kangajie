@@ -84,12 +84,12 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 </p>
 
 <!-- AUTO:ACTIVITY:START -->
+- Jul 31, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
+- Jul 31, 2026: pushed 1 commit to [kangajie/kangajie-ai-backend](https://github.com/kangajie/kangajie-ai-backend).
 - Jul 17, 2026: pushed 1 commit to [kangajie/kangajie](https://github.com/kangajie/kangajie).
 - Jul 17, 2026: pushed 1 commit to [kangajie/kangajie-ai-backend](https://github.com/kangajie/kangajie-ai-backend).
 - Jul 17, 2026: created a branch in [kangajie/kangajie-ai-backend](https://github.com/kangajie/kangajie-ai-backend).
 - Jul 17, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
-- Jul 17, 2026: created a branch in [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
-- Jul 17, 2026: created a branch in [kangajie/kangajie](https://github.com/kangajie/kangajie).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
