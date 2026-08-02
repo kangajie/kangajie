@@ -28,7 +28,7 @@
   <text x="729" y="132" text-anchor="middle" class="stat-label" fill="#64748B">FOLLOWERS</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
-  <text x="1007" y="108" text-anchor="middle" class="stat-value" fill="#10B981">44</text>
+  <text x="1007" y="108" text-anchor="middle" class="stat-value" fill="#10B981">45</text>
   <text x="1007" y="132" text-anchor="middle" class="stat-label" fill="#64748B">RECENT COMMITS</text>
 </g>
 <rect x="34.0" y="168" width="0" height="12" rx="3" fill="#22D3EE" opacity="0.85"><animate attributeName="width" from="0" to="741.3" dur="0.6s" begin="0.90s" fill="freeze"/></rect>
