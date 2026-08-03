@@ -89,7 +89,6 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 - Aug 2, 2026: pushed 1 commit to [kangajie/kangajie-ai-backend](https://github.com/kangajie/kangajie-ai-backend).
 - Aug 1, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
 - Aug 1, 2026: pushed 1 commit to [kangajie/kangajie-ai-backend](https://github.com/kangajie/kangajie-ai-backend).
-- Jul 31, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
