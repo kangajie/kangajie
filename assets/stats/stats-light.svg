@@ -24,7 +24,7 @@
   <text x="451" y="132" text-anchor="middle" class="stat-label" fill="#64748B">STARS EARNED</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
-  <text x="729" y="108" text-anchor="middle" class="stat-value" fill="#6D28D9">5</text>
+  <text x="729" y="108" text-anchor="middle" class="stat-value" fill="#6D28D9">6</text>
   <text x="729" y="132" text-anchor="middle" class="stat-label" fill="#64748B">FOLLOWERS</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.75s" fill="freeze"/>
