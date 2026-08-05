@@ -85,11 +85,9 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 
 <!-- AUTO:ACTIVITY:START -->
 - Aug 5, 2026: pushed 1 commit to [gadingadityacandra/front-brownis](https://github.com/gadingadityacandra/front-brownis).
-- Aug 5, 2026: created a branch in [gadingadityacandra/iam.browniessss](https://github.com/gadingadityacandra/iam.browniessss).
 - Aug 5, 2026: pushed 1 commit to [gadingadityacandra/back-brownis](https://github.com/gadingadityacandra/back-brownis).
+- Aug 5, 2026: created a branch in [gadingadityacandra/iam.browniessss](https://github.com/gadingadityacandra/iam.browniessss).
 - Aug 3, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
-- Aug 2, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
-- Aug 2, 2026: pushed 1 commit to [kangajie/kangajie-ai-backend](https://github.com/kangajie/kangajie-ai-backend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
