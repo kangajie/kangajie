@@ -370,6 +370,9 @@
   <animate attributeName="fill" values="#9BE9A8;#0F172A;#6D28D9" dur="0.55s" begin="25.48s" fill="freeze"/>
 </rect>
 <rect x="1105" y="179" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
+<rect x="1126" y="179" width="16" height="16" rx="3" fill="#9BE9A8">
+  <animate attributeName="fill" values="#9BE9A8;#0F172A;#6D28D9" dur="0.55s" begin="26.46s" fill="freeze"/>
+</rect>
 <rect x="34" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="55" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="76" y="200" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
@@ -448,7 +451,7 @@
   <animateMotion dur="26s" begin="0.95s" fill="freeze" path="M 42 82 L 42 208 L 63 208 L 63 82 L 84 82 L 84 208 L 105 208 L 105 82 L 126 82 L 126 208 L 147 208 L 147 82 L 168 82 L 168 208 L 189 208 L 189 82 L 210 82 L 210 208 L 231 208 L 231 82 L 252 82 L 252 208 L 273 208 L 273 82 L 294 82 L 294 208 L 315 208 L 315 82 L 336 82 L 336 208 L 357 208 L 357 82 L 378 82 L 378 208 L 399 208 L 399 82 L 420 82 L 420 208 L 441 208 L 441 82 L 462 82 L 462 208 L 483 208 L 483 82 L 504 82 L 504 208 L 525 208 L 525 82 L 546 82 L 546 208 L 567 208 L 567 82 L 588 82 L 588 208 L 609 208 L 609 82 L 630 82 L 630 208 L 651 208 L 651 82 L 672 82 L 672 208 L 693 208 L 693 82 L 714 82 L 714 208 L 735 208 L 735 82 L 756 82 L 756 208 L 777 208 L 777 82 L 798 82 L 798 208 L 819 208 L 819 82 L 840 82 L 840 208 L 861 208 L 861 82 L 882 82 L 882 208 L 903 208 L 903 82 L 924 82 L 924 208 L 945 208 L 945 82 L 966 82 L 966 208 L 987 208 L 987 82 L 1008 82 L 1008 208 L 1029 208 L 1029 82 L 1050 82 L 1050 208 L 1071 208 L 1071 82 L 1092 82 L 1092 208 L 1113 208 L 1113 82 L 1134 82 L 1134 208"/>
   <rect x="-5" y="-5" width="10" height="10" rx="2" fill="#6D28D9"/>
 </g>
-<text x="34" y="254" class="hud" fill="#64748B">EXFILTRATING <tspan fill="#0891B2" font-weight="700">19</tspan> DATA.NODES</text>
+<text x="34" y="254" class="hud" fill="#64748B">EXFILTRATING <tspan fill="#0891B2" font-weight="700">20</tspan> DATA.NODES</text>
 <rect x="284" y="244" width="788" height="10" rx="5" fill="#E7EDF7"/>
 <rect x="284" y="244" width="0" height="10" rx="5" fill="url(#progress)">
   <animate attributeName="width" from="0" to="788" dur="26s" begin="0.6s" fill="freeze"/>
