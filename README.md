@@ -84,12 +84,12 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 </p>
 
 <!-- AUTO:ACTIVITY:START -->
+- Aug 15, 2026: pushed 1 commit to [kangajie/AeroVision](https://github.com/kangajie/AeroVision).
 - Aug 13, 2026: pushed 1 commit to [kangajie/AeroVision](https://github.com/kangajie/AeroVision).
 - Aug 13, 2026: created a branch in [kangajie/AeroVision](https://github.com/kangajie/AeroVision).
 - Aug 5, 2026: pushed 1 commit to [gadingadityacandra/front-brownis](https://github.com/gadingadityacandra/front-brownis).
 - Aug 5, 2026: pushed 1 commit to [gadingadityacandra/back-brownis](https://github.com/gadingadityacandra/back-brownis).
 - Aug 5, 2026: created a branch in [gadingadityacandra/iam.browniessss](https://github.com/gadingadityacandra/iam.browniessss).
-- Aug 3, 2026: pushed 1 commit to [kangajie/kangajie-ai-frontend](https://github.com/kangajie/kangajie-ai-frontend).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
