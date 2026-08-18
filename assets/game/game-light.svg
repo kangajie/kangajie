@@ -191,6 +191,7 @@
   <animate attributeName="fill" values="#30A14E;#0F172A;#6D28D9" dur="0.55s" begin="25.27s" fill="freeze"/>
 </rect>
 <rect x="1105" y="116" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
+<rect x="1126" y="116" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="34" y="137" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="55" y="137" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
 <rect x="76" y="137" width="16" height="16" rx="3" fill="#E7EDF7" opacity="0.55"/>
