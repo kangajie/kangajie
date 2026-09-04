@@ -84,6 +84,7 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 </p>
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 4, 2026: created a branch in [kangajie/obj-detect-api](https://github.com/kangajie/obj-detect-api).
 - Aug 27, 2026: pushed 1 commit to [gadingadityacandra/back-brownis](https://github.com/gadingadityacandra/back-brownis).
 - Aug 27, 2026: pushed 1 commit to [gadingadityacandra/front-brownis](https://github.com/gadingadityacandra/front-brownis).
 - Aug 17, 2026: pushed 1 commit to [kangajie/AeroVision](https://github.com/kangajie/AeroVision).
