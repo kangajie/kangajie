@@ -84,7 +84,7 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 </p>
 
 <!-- AUTO:ACTIVITY:START -->
-- Sep 4, 2026: created a branch in [kangajie/obj-detect-api](https://github.com/kangajie/obj-detect-api).
+_No recent public activity was found._
 <!-- AUTO:ACTIVITY:END -->
 
 ---
