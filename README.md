@@ -84,6 +84,7 @@ I like working across the whole stack: designing interfaces, wiring up servers, 
 </p>
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 1, 2026: pushed 1 commit to [kangajie/KATube](https://github.com/kangajie/KATube).
 - Oct 30, 2026: pushed 1 commit to [kangajie/KATube](https://github.com/kangajie/KATube).
 - Oct 30, 2026: created a branch in [kangajie/KATube](https://github.com/kangajie/KATube).
 <!-- AUTO:ACTIVITY:END -->
